@@ -20,7 +20,7 @@ class Rectangle implements Shape
   
   public double getArea()
   {
-    double area = l*w;
+    double area = length*width;
     return area;
   }  
   
@@ -45,7 +45,7 @@ class Triangle implements Shape
   
   public double getArea()
   {
-    double area = b*w*0.5;
+    double area = base*width*0.5;
     return area;
   }
   
