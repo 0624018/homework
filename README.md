@@ -26,7 +26,7 @@ class Rectangle implements Shape
   
   public String toString()
   {
-    String ans = double.toString(getArea());
+    String ans = Double.toString(getArea());
     return ans;
   }
 }
@@ -51,7 +51,7 @@ class Triangle implements Shape
   
   public String toString()
   {
-    String ans = double.toString(getArea());
+    String ans = Double.toString(getArea());
     return ans;
   }
 }
