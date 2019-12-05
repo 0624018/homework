@@ -57,3 +57,16 @@ class Triangle implements Shape
 }
 
 ```
+
+
+
+```java
+//JAVA code
+class Student{
+  Course[] courses = new Course[10];
+}
+
+class Course{
+}
+
+```
