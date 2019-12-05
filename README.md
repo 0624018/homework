@@ -58,7 +58,7 @@ class Triangle implements Shape
 
 ```
 
-
+![pic](irs_1575356181800ac14ecaa5b0930566fb0f3061aa4ceca584af.jfif)
 
 ```java
 //JAVA code
